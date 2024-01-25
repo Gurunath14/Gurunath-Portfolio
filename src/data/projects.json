@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Booksky",
+    "imageSrc": "projects/project.png",
+    "description": "A streamlined note-taking app designed for effective language learning and organized thought management.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://bookskynotetaking.netlify.app/",
+    "source": "https://github.com/Gurunath14/Booksky"
+  },
+  {
+    "title": "Weather Check",
+    "imageSrc": "projects/project.png",
+    "description": "A comprehensive platform for checking weather conditions, ensuring a seamless and informative user experience.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://weathercheck14.netlify.app/",
+    "source": "https://github.com/Gurunath14/Weather-app"
+  },
+  {
+    "title": "Top20 News",
+    "imageSrc": "projects/project.png",
+    "description": " An up-to-date platform delivering the latest news, ensuring a seamless and informative user experience.",
+    "skills": ["React", "Bootstrap", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

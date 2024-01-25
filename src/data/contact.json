@@ -1,0 +1,17 @@
+[
+  {
+    "onlineprofile": "gurunath1480@gmail.com",
+    "imageSrc": "contact/emailIcon.png",
+    "onlinelink": "mailto:gurunath1480@gmail.com"
+  },
+  {
+    "onlineprofile": "github.com/Gurunath14",
+    "imageSrc": "contact/githubIcon.png",
+    "onlinelink": "https://github.com/Gurunath14"
+  },
+  {
+    "onlineprofile": "www.linkedin.com/in/gurunath-m-846011229/",
+    "imageSrc": "contact/linkedinIcon.png",
+    "onlinelink": "https://www.linkedin.com/in/gurunath-m-846011229/"
+  }
+]
