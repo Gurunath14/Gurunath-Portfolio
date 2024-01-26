@@ -441,6 +441,8 @@ u {
   }
   .container {
     flex-direction: column-reverse;
+    text-align: center;
+    gap: 10px;
   }
   .aboutimage {
     display: none;
@@ -472,6 +474,7 @@ u {
   .outercontact {
     flex-direction: column;
     text-align: center;
+    padding: 4% 6%;
   }
   .onlinemedia {
     flex-direction: column;
@@ -492,8 +495,19 @@ u {
   }
   .herobtn {
     flex-direction: column;
+    width: 100%;
+    align-items: center;
   }
   .workimg {
     display: none;
+  }
+  .heroimage {
+    width: 60%;
+  }
+  .onlinemedia p {
+    font-size: 20px;
+  }
+  .outercontact p {
+    padding: 1px;
   }
 }
