@@ -22,5 +22,9 @@
   {
     "title": "Tailwind Css",
     "imageSrc": "skills/tailwind-css-icon.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png"
   }
 ]

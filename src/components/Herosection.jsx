@@ -5,10 +5,10 @@ const Herosection = () => {
   return (
     <div className="container">
       <div className="herocontent">
-        <h1 className="heroname">Hi, I'm Guru</h1>
+        <h1 className="heroname">Hi, I'm Gurunath</h1>
         <p className="herodescription">
           Versatile developer skilled in React, JavaScript, Tailwind CSS, and
-          Mendix. Let's connect for more details!
+          Typescript Let's connect for more details!
         </p>
         <div className="herobtn">
           {" "}
